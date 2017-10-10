@@ -1,3 +1,4 @@
+var friends = [
 {
   "name":"Joey Tribiani",
   "photo":"https://typeset-beta.imgix.net/rehost%2F2016%2F9%2F13%2F448e1dea-fcbc-4f59-acab-25946e3e47ac.jpg",
@@ -93,4 +94,23 @@
       5, //9
       5 //10
     ]
+},
+{
+  "name":"One",
+  "photo":"https://typeset-beta.imgix.net/rehost%2F2016%2F9%2F13%2F448e1dea-fcbc-4f59-acab-25946e3e47ac.jpg",
+  "scores":[
+      1, //1
+      1, //2
+      1, //3
+      1, //4
+      1, //5
+      1, //6
+      1, //7
+      1, //8
+      1, //9
+      1 //10
+    ]
 }
+]
+
+module.exports = friends;
