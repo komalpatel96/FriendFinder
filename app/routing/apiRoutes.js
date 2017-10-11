@@ -22,14 +22,14 @@ module.exports = function(app) {
 
 		var bestMatch = {
 			name: "",
-			image: "",
+			photo: "",
 			scores: null
 		};
 
 		// console.log(req.body);
 		var newFriend = {
 			name: req.body.name,
-			image: req.body.image,
+			photo: req.body.photo,
 			scores: req.body["scores[]"]
 		}
 
