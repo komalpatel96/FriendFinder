@@ -4,7 +4,7 @@ var friends = [
   "photo":"https://typeset-beta.imgix.net/rehost%2F2016%2F9%2F13%2F448e1dea-fcbc-4f59-acab-25946e3e47ac.jpg",
   "scores":[
       5, //1
-      3, //2
+      3, //2 
       1, //3
       1, //4
       4, //5
